@@ -1,0 +1,1802 @@
+[
+  {
+    "movieId": "a5a28373-c2f8-3e44-86f7-029f84fc100d",
+    "movieTitle": "The Philadelphia Story",
+    "movieYear": 1940,
+    "movieURL": "https://www.rottentomatoes.com/m/philadelphia_story",
+    "movieRank": 1,
+    "critic_score": "100%",
+    "audience_score": "93%"
+  },
+  {
+    "movieId": "7ca8768d-04d5-3766-ba6a-9b25482a6223",
+    "movieTitle": "His Girl Friday",
+    "movieYear": 1940,
+    "movieURL": "https://www.rottentomatoes.com/m/his_girl_friday",
+    "movieRank": 2,
+    "critic_score": "99%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "ed40786e-969a-33bc-b668-7ab63efd51b8",
+    "movieTitle": "The Shop Around the Corner",
+    "movieYear": 1940,
+    "movieURL": "https://www.rottentomatoes.com/m/shop_around_the_corner",
+    "movieRank": 3,
+    "critic_score": "99%",
+    "audience_score": "91%"
+  },
+  {
+    "movieId": "508bfc6a-1f39-3323-9ccd-998e8df3a48e",
+    "movieTitle": "The Lady Eve",
+    "movieYear": 1941,
+    "movieURL": "https://www.rottentomatoes.com/m/lady_eve",
+    "movieRank": 4,
+    "critic_score": "99%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "72619c50-e028-3cfe-ae53-6cb86204389c",
+    "movieTitle": "It Happened One Night",
+    "movieYear": 1934,
+    "movieURL": "https://www.rottentomatoes.com/m/it_happened_one_night",
+    "movieRank": 5,
+    "critic_score": "98%",
+    "audience_score": "93%"
+  },
+  {
+    "movieId": "e69bc13d-2c0b-39a8-b8f7-fd5a54fb8aa1",
+    "movieTitle": "Broadcast News",
+    "movieYear": 1987,
+    "movieURL": "https://www.rottentomatoes.com/m/broadcast_news",
+    "movieRank": 6,
+    "critic_score": "98%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "214c3ab0-d059-36e3-b3af-1f69760ce6b6",
+    "movieTitle": "Big",
+    "movieYear": 1988,
+    "movieURL": "https://www.rottentomatoes.com/m/big",
+    "movieRank": 7,
+    "critic_score": "98%",
+    "audience_score": "82%"
+  },
+  {
+    "movieId": "3aa36255-5205-35a3-9d8c-4d6c2ecc75da",
+    "movieTitle": "Say Anything...",
+    "movieYear": 1989,
+    "movieURL": "https://www.rottentomatoes.com/m/say_anything",
+    "movieRank": 8,
+    "critic_score": "98%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "65fb6793-1f54-32f4-a1ab-c28977490390",
+    "movieTitle": "Defending Your Life",
+    "movieYear": 1991,
+    "movieURL": "https://www.rottentomatoes.com/m/defending_your_life",
+    "movieRank": 9,
+    "critic_score": "98%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "efa23598-43de-3bfd-8fb6-7f21fb43703c",
+    "movieTitle": "The Big Sick",
+    "movieYear": 2017,
+    "movieURL": "https://www.rottentomatoes.com/m/the_big_sick",
+    "movieRank": 10,
+    "critic_score": "98%",
+    "audience_score": "88%"
+  },
+  {
+    "movieId": "01affe8c-1041-4c14-8114-98f1c9e39f79",
+    "movieTitle": "Rye Lane",
+    "movieYear": 2023,
+    "movieURL": "https://www.rottentomatoes.com/m/rye_lane",
+    "movieRank": 11,
+    "critic_score": "98%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "bd14ccf8-022d-353a-8268-2acd79371fc7",
+    "movieTitle": "Bringing Up Baby",
+    "movieYear": 1938,
+    "movieURL": "https://www.rottentomatoes.com/m/bringing_up_baby",
+    "movieRank": 12,
+    "critic_score": "97%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "09291ad9-40e1-3e17-af71-e1dcafb81921",
+    "movieTitle": "Annie Hall",
+    "movieYear": 1977,
+    "movieURL": "https://www.rottentomatoes.com/m/annie_hall",
+    "movieRank": 13,
+    "critic_score": "97%",
+    "audience_score": "92%"
+  },
+  {
+    "movieId": "8888b458-9680-3c8a-afa6-272f4b49a801",
+    "movieTitle": "Bull Durham",
+    "movieYear": 1988,
+    "movieURL": "https://www.rottentomatoes.com/m/bull_durham",
+    "movieRank": 14,
+    "critic_score": "97%",
+    "audience_score": "82%"
+  },
+  {
+    "movieId": "a62bc115-3ae3-3f6c-9d94-6c6266ad5273",
+    "movieTitle": "Sideways",
+    "movieYear": 2004,
+    "movieURL": "https://www.rottentomatoes.com/m/sideways",
+    "movieRank": 15,
+    "critic_score": "97%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "91865cf2-17d6-30fa-ace8-413657b7b3d6",
+    "movieTitle": "Appropriate Behavior",
+    "movieYear": 2014,
+    "movieURL": "https://www.rottentomatoes.com/m/appropriate_behavior",
+    "movieRank": 16,
+    "critic_score": "97%",
+    "audience_score": "64%"
+  },
+  {
+    "movieId": "a6ecd177-5125-36d9-b3dd-3680b1c1799a",
+    "movieTitle": "The Half of It",
+    "movieYear": 2020,
+    "movieURL": "https://www.rottentomatoes.com/m/the_half_of_it",
+    "movieRank": 17,
+    "critic_score": "97%",
+    "audience_score": "80%"
+  },
+  {
+    "movieId": "3f3cd0a4-6af2-3b13-b603-6d20075d8d13",
+    "movieTitle": "The Princess Bride",
+    "movieYear": 1987,
+    "movieURL": "https://www.rottentomatoes.com/m/princess_bride",
+    "movieRank": 18,
+    "critic_score": "96%",
+    "audience_score": "94%"
+  },
+  {
+    "movieId": "35cff079-0b7f-32a4-a3f2-8c87ba5bad36",
+    "movieTitle": "Four Weddings and a Funeral",
+    "movieYear": 1994,
+    "movieURL": "https://www.rottentomatoes.com/m/four_weddings_and_a_funeral",
+    "movieRank": 19,
+    "critic_score": "92%",
+    "audience_score": "74%"
+  },
+  {
+    "movieId": "99f0ea49-44d6-43bf-9ef4-341a809157fd",
+    "movieTitle": "To All the Boys I've Loved Before",
+    "movieYear": 2018,
+    "movieURL": "https://www.rottentomatoes.com/m/to_all_the_boys_ive_loved_before",
+    "movieRank": 20,
+    "critic_score": "96%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "eb9ad3eb-a674-333b-a0e4-d9904a79742d",
+    "movieTitle": "Spontaneous",
+    "movieYear": 2020,
+    "movieURL": "https://www.rottentomatoes.com/m/spontaneous",
+    "movieRank": 21,
+    "critic_score": "96%",
+    "audience_score": "68%"
+  },
+  {
+    "movieId": "716dfa06-94e5-364c-9920-818355915c70",
+    "movieTitle": "The Worst Person in the World",
+    "movieYear": 2021,
+    "movieURL": "https://www.rottentomatoes.com/m/the_worst_person_in_the_world",
+    "movieRank": 22,
+    "critic_score": "96%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "5ca6f59a-5586-4ae0-b9af-360247d4699b",
+    "movieTitle": "I'm Your Man",
+    "movieYear": 2021,
+    "movieURL": "https://www.rottentomatoes.com/m/im_your_man_2021",
+    "movieRank": 23,
+    "critic_score": "96%",
+    "audience_score": "81%"
+  },
+  {
+    "movieId": "ce4faf60-7493-3977-8054-f83d3edd66ce",
+    "movieTitle": "City Lights",
+    "movieYear": 1931,
+    "movieURL": "https://www.rottentomatoes.com/m/city_lights",
+    "movieRank": 24,
+    "critic_score": "95%",
+    "audience_score": "96%"
+  },
+  {
+    "movieId": "412504c5-2640-3e79-9185-0a2ed1456d4e",
+    "movieTitle": "Ninotchka",
+    "movieYear": 1939,
+    "movieURL": "https://www.rottentomatoes.com/m/ninotchka",
+    "movieRank": 25,
+    "critic_score": "95%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "a50a127d-e1cb-373d-8f20-4999b7186c77",
+    "movieTitle": "Roman Holiday",
+    "movieYear": 1953,
+    "movieURL": "https://www.rottentomatoes.com/m/roman_holiday",
+    "movieRank": 26,
+    "critic_score": "96%",
+    "audience_score": "93%"
+  },
+  {
+    "movieId": "a2d3f670-6f35-375b-951a-d406c3374496",
+    "movieTitle": "Dave",
+    "movieYear": 1993,
+    "movieURL": "https://www.rottentomatoes.com/m/dave",
+    "movieRank": 27,
+    "critic_score": "95%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "75b32426-b997-3ff9-9939-d9a583441d51",
+    "movieTitle": "The Artist",
+    "movieYear": 2011,
+    "movieURL": "https://www.rottentomatoes.com/m/the_artist",
+    "movieRank": 28,
+    "critic_score": "95%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "91d3f566-1778-34cc-a8a6-2212c24ee5ed",
+    "movieTitle": "Enough Said",
+    "movieYear": 2013,
+    "movieURL": "https://www.rottentomatoes.com/m/enough_said_2013",
+    "movieRank": 29,
+    "critic_score": "95%",
+    "audience_score": "75%"
+  },
+  {
+    "movieId": "39ead5fc-b074-34e1-9e0c-cab302f7d840",
+    "movieTitle": "Sabrina",
+    "movieYear": 1954,
+    "movieURL": "https://www.rottentomatoes.com/m/1018047-sabrina",
+    "movieRank": 30,
+    "critic_score": "89%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "a4d5eb4a-6d7b-365e-b7ae-827702da9350",
+    "movieTitle": "Some Like It Hot",
+    "movieYear": 1959,
+    "movieURL": "https://www.rottentomatoes.com/m/some_like_it_hot",
+    "movieRank": 31,
+    "critic_score": "95%",
+    "audience_score": "94%"
+  },
+  {
+    "movieId": "27fff146-dd57-3200-81e0-b7fe769c0681",
+    "movieTitle": "The Apartment",
+    "movieYear": 1960,
+    "movieURL": "https://www.rottentomatoes.com/m/1001115-apartment",
+    "movieRank": 32,
+    "critic_score": "94%",
+    "audience_score": "94%"
+  },
+  {
+    "movieId": "699c5fc9-f46d-3722-bbfe-3b11357b32ee",
+    "movieTitle": "Manhattan",
+    "movieYear": 1979,
+    "movieURL": "https://www.rottentomatoes.com/m/manhattan",
+    "movieRank": 33,
+    "critic_score": "94%",
+    "audience_score": "92%"
+  },
+  {
+    "movieId": "1b6117e6-c718-3d4f-9f56-5254c337e3c4",
+    "movieTitle": "Groundhog Day",
+    "movieYear": 1993,
+    "movieURL": "https://www.rottentomatoes.com/m/groundhog_day",
+    "movieRank": 34,
+    "critic_score": "94%",
+    "audience_score": "88%"
+  },
+  {
+    "movieId": "b18eb92d-307a-3655-9b25-849b0e2d17bc",
+    "movieTitle": "Juno",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/juno",
+    "movieRank": 35,
+    "critic_score": "94%",
+    "audience_score": "88%"
+  },
+  {
+    "movieId": "388b66fb-c00b-32dc-a454-40812d4e5b4f",
+    "movieTitle": "Palm Springs",
+    "movieYear": 2020,
+    "movieURL": "https://www.rottentomatoes.com/m/palm_springs_2020",
+    "movieRank": 36,
+    "critic_score": "94%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "c833a77e-ebc4-39fd-ba06-b60933758dba",
+    "movieTitle": "Fire Island",
+    "movieYear": 2022,
+    "movieURL": "https://www.rottentomatoes.com/m/fire_island_2022",
+    "movieRank": 37,
+    "critic_score": "94%",
+    "audience_score": "67%"
+  },
+  {
+    "movieId": "a3c857f4-5d3e-3acd-9fb8-17f3030a5445",
+    "movieTitle": "Enchanted",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/enchanted",
+    "movieRank": 38,
+    "critic_score": "93%",
+    "audience_score": "80%"
+  },
+  {
+    "movieId": "60bfcbda-bb51-3fa1-a794-5c2793a73e4b",
+    "movieTitle": "Midnight in Paris",
+    "movieYear": 2011,
+    "movieURL": "https://www.rottentomatoes.com/m/midnight_in_paris",
+    "movieRank": 39,
+    "critic_score": "93%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "1d068f96-4a6d-3bcd-98c4-f156cf3320fd",
+    "movieTitle": "Moonstruck",
+    "movieYear": 1987,
+    "movieURL": "https://www.rottentomatoes.com/m/moonstruck",
+    "movieRank": 40,
+    "critic_score": "89%",
+    "audience_score": "80%"
+  },
+  {
+    "movieId": "b8698fa4-796a-3d30-b6b6-130b36128e0a",
+    "movieTitle": "Shakespeare in Love",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/shakespeare_in_love",
+    "movieRank": 41,
+    "critic_score": "92%",
+    "audience_score": "80%"
+  },
+  {
+    "movieId": "c687b769-4fcd-347b-afbf-7baa949782b8",
+    "movieTitle": "Hairspray",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/hairspray",
+    "movieRank": 42,
+    "critic_score": "92%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "22c8f1f3-3470-3d94-96cb-a3a6b591603a",
+    "movieTitle": "The Kids Are All Right",
+    "movieYear": 2010,
+    "movieURL": "https://www.rottentomatoes.com/m/10012141-kids_are_all_right",
+    "movieRank": 43,
+    "critic_score": "93%",
+    "audience_score": "74%"
+  },
+  {
+    "movieId": "bc882910-35f5-397a-8a85-f56981f4708c",
+    "movieTitle": "Silver Linings Playbook",
+    "movieYear": 2012,
+    "movieURL": "https://www.rottentomatoes.com/m/silver_linings_playbook",
+    "movieRank": 44,
+    "critic_score": "92%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "9aa5a42e-881a-3a71-a6dd-ba52689b2d6b",
+    "movieTitle": "Love, Simon",
+    "movieYear": 2018,
+    "movieURL": "https://www.rottentomatoes.com/m/love_simon",
+    "movieRank": 45,
+    "critic_score": "92%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "dd8231cd-a4c1-3932-aa00-a2ab5918fc7f",
+    "movieTitle": "The Heartbreak Kid",
+    "movieYear": 1972,
+    "movieURL": "https://www.rottentomatoes.com/m/heartbreak_kid",
+    "movieRank": 46,
+    "critic_score": "92%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "b593e439-1b53-35b1-b56c-76019201660f",
+    "movieTitle": "Crazy Rich Asians",
+    "movieYear": 2018,
+    "movieURL": "https://www.rottentomatoes.com/m/crazy_rich_asians",
+    "movieRank": 47,
+    "critic_score": "91%",
+    "audience_score": "76%"
+  },
+  {
+    "movieId": "5ec905ce-5f34-3846-89de-e599b6bae864",
+    "movieTitle": "High Fidelity",
+    "movieYear": 2000,
+    "movieURL": "https://www.rottentomatoes.com/m/1095420-high_fidelity",
+    "movieRank": 48,
+    "critic_score": "91%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "482127c6-ee74-3907-bebf-47694e4b7076",
+    "movieTitle": "When Harry Met Sally...",
+    "movieYear": 1989,
+    "movieURL": "https://www.rottentomatoes.com/m/when_harry_met_sally",
+    "movieRank": 49,
+    "critic_score": "91%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "59750067-1c45-3ed4-8579-c13174fd7938",
+    "movieTitle": "Hannah and Her Sisters",
+    "movieYear": 1986,
+    "movieURL": "https://www.rottentomatoes.com/m/hannah_and_her_sisters",
+    "movieRank": 50,
+    "critic_score": "91%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "50297381-8244-3741-b93a-4f2e96e861e5",
+    "movieTitle": "The American President",
+    "movieYear": 1995,
+    "movieURL": "https://www.rottentomatoes.com/m/american_president",
+    "movieRank": 51,
+    "critic_score": "91%",
+    "audience_score": "77%"
+  },
+  {
+    "movieId": "eda743ee-16ac-343a-a6e0-327d2d21f496",
+    "movieTitle": "L.A. Story",
+    "movieYear": 1991,
+    "movieURL": "https://www.rottentomatoes.com/m/la_story",
+    "movieRank": 52,
+    "critic_score": "91%",
+    "audience_score": "75%"
+  },
+  {
+    "movieId": "c9f5acfe-96ec-3da1-92e7-8072e320e346",
+    "movieTitle": "Splash",
+    "movieYear": 1984,
+    "movieURL": "https://www.rottentomatoes.com/m/splash",
+    "movieRank": 53,
+    "critic_score": "91%",
+    "audience_score": "62%"
+  },
+  {
+    "movieId": "a32195d5-b73b-331c-9969-01df657c2bb0",
+    "movieTitle": "Show Me Love",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/show_me_love",
+    "movieRank": 54,
+    "critic_score": "91%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "46ed6d95-afc9-3cf3-bb3d-a4ed267f6e59",
+    "movieTitle": "Licorice Pizza",
+    "movieYear": 2021,
+    "movieURL": "https://www.rottentomatoes.com/m/licorice_pizza",
+    "movieRank": 55,
+    "critic_score": "90%",
+    "audience_score": "66%"
+  },
+  {
+    "movieId": "143f145e-b8a8-36e8-84ec-dff6e34fe10c",
+    "movieTitle": "Obvious Child",
+    "movieYear": 2014,
+    "movieURL": "https://www.rottentomatoes.com/m/obvious_child",
+    "movieRank": 56,
+    "critic_score": "90%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "4c29f25b-6573-3259-846b-eee1067ae6bd",
+    "movieTitle": "Much Ado About Nothing",
+    "movieYear": 1993,
+    "movieURL": "https://www.rottentomatoes.com/m/1045992-much_ado_about_nothing",
+    "movieRank": 57,
+    "critic_score": "90%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "e6a0e522-41a1-3d34-98d9-70031ae9ad5d",
+    "movieTitle": "Bridesmaids",
+    "movieYear": 2011,
+    "movieURL": "https://www.rottentomatoes.com/m/bridesmaids_2011",
+    "movieRank": 58,
+    "critic_score": "90%",
+    "audience_score": "76%"
+  },
+  {
+    "movieId": "7da16f62-9077-304d-8b0b-418e48623ac1",
+    "movieTitle": "Knocked Up",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/knocked_up",
+    "movieRank": 59,
+    "critic_score": "89%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "30c6fd6b-7da7-333d-9be0-005103c2a3d3",
+    "movieTitle": "Amélie",
+    "movieYear": 2001,
+    "movieURL": "https://www.rottentomatoes.com/m/amelie",
+    "movieRank": 60,
+    "critic_score": "90%",
+    "audience_score": "95%"
+  },
+  {
+    "movieId": "58be065e-825a-3767-a470-8c79912a6e59",
+    "movieTitle": "Waitress",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/waitress",
+    "movieRank": 61,
+    "critic_score": "89%",
+    "audience_score": "74%"
+  },
+  {
+    "movieId": "9ac3d25e-710f-3dbb-be4f-1aeb47dbf136",
+    "movieTitle": "Plus One",
+    "movieYear": 2019,
+    "movieURL": "https://www.rottentomatoes.com/m/plus_one_2019",
+    "movieRank": 62,
+    "critic_score": "88%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "a4687684-77b0-3305-9b1b-c0c5320783d4",
+    "movieTitle": "What's Up, Doc?",
+    "movieYear": 1972,
+    "movieURL": "https://www.rottentomatoes.com/m/whats_up_doc",
+    "movieRank": 63,
+    "critic_score": "89%",
+    "audience_score": "88%"
+  },
+  {
+    "movieId": "7130785e-349a-4185-8503-ec4f10699bc2",
+    "movieTitle": "Bros",
+    "movieYear": 2022,
+    "movieURL": "https://www.rottentomatoes.com/m/bros_2022",
+    "movieRank": 64,
+    "critic_score": "89%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "14a3c033-9613-347a-beb9-1ad100a5729d",
+    "movieTitle": "Submarine",
+    "movieYear": 2010,
+    "movieURL": "https://www.rottentomatoes.com/m/submarine-2010",
+    "movieRank": 65,
+    "critic_score": "88%",
+    "audience_score": "82%"
+  },
+  {
+    "movieId": "c9e9aef7-16e2-303b-b7ce-ffc8ed422021",
+    "movieTitle": "2 Days in Paris",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/2_days_in_paris",
+    "movieRank": 66,
+    "critic_score": "88%",
+    "audience_score": "71%"
+  },
+  {
+    "movieId": "c07cf214-c80b-3bbf-a58d-b62faedbc0b3",
+    "movieTitle": "Breakfast at Tiffany's",
+    "movieYear": 1961,
+    "movieURL": "https://www.rottentomatoes.com/m/breakfast_at_tiffanys",
+    "movieRank": 67,
+    "critic_score": "88%",
+    "audience_score": "91%"
+  },
+  {
+    "movieId": "bd2c614c-5003-317c-84c7-4f4409dc8e54",
+    "movieTitle": "Strictly Ballroom",
+    "movieYear": 1992,
+    "movieURL": "https://www.rottentomatoes.com/m/1045568-strictly_ballroom",
+    "movieRank": 68,
+    "critic_score": "88%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "ad520e28-45f0-3daf-91d5-df9a9bedf29b",
+    "movieTitle": "Saving Face",
+    "movieYear": 2004,
+    "movieURL": "https://www.rottentomatoes.com/m/saving_face",
+    "movieRank": 69,
+    "critic_score": "88%",
+    "audience_score": "88%"
+  },
+  {
+    "movieId": "4f1c1647-14ff-3f88-b4a5-cccd08145071",
+    "movieTitle": "Roxanne",
+    "movieYear": 1987,
+    "movieURL": "https://www.rottentomatoes.com/m/roxanne",
+    "movieRank": 70,
+    "critic_score": "88%",
+    "audience_score": "63%"
+  },
+  {
+    "movieId": "c4f94dbc-273a-3ceb-81f9-12b8dfd22368",
+    "movieTitle": "Funny Ha Ha",
+    "movieYear": 2003,
+    "movieURL": "https://www.rottentomatoes.com/m/funny-ha-ha",
+    "movieRank": 71,
+    "critic_score": "88%",
+    "audience_score": "64%"
+  },
+  {
+    "movieId": "e08162e7-2d0f-3ed2-a50b-d23b6ffc732a",
+    "movieTitle": "Italian for Beginners",
+    "movieYear": 2000,
+    "movieURL": "https://www.rottentomatoes.com/m/italian_for_beginners",
+    "movieRank": 72,
+    "critic_score": "87%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "f9fa19ba-843b-3a22-8d0f-0392752e41bb",
+    "movieTitle": "Chasing Amy",
+    "movieYear": 1997,
+    "movieURL": "https://www.rottentomatoes.com/m/chasing_amy",
+    "movieRank": 73,
+    "critic_score": "87%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "4794c1ee-fbef-3746-b163-2604fc76fb14",
+    "movieTitle": "The Parent Trap",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/1083414-parent_trap",
+    "movieRank": 74,
+    "critic_score": "87%",
+    "audience_score": "70%"
+  },
+  {
+    "movieId": "56cc13af-7ed1-4488-9a12-fcb1021cb93f",
+    "movieTitle": "EMMA.",
+    "movieYear": 2020,
+    "movieURL": "https://www.rottentomatoes.com/m/emma_2020",
+    "movieRank": 75,
+    "critic_score": "86%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "b40acfda-58d8-3688-8a58-4a1c9b976ffb",
+    "movieTitle": "Garden State",
+    "movieYear": 2004,
+    "movieURL": "https://www.rottentomatoes.com/m/garden_state",
+    "movieRank": 76,
+    "critic_score": "86%",
+    "audience_score": "88%"
+  },
+  {
+    "movieId": "33fed327-3b88-3446-953d-8ae6083da2d5",
+    "movieTitle": "Much Ado About Nothing",
+    "movieYear": 2012,
+    "movieURL": "https://www.rottentomatoes.com/m/much_ado_about_nothing_2012",
+    "movieRank": 77,
+    "critic_score": "86%",
+    "audience_score": "77%"
+  },
+  {
+    "movieId": "e96fe760-a081-3c2e-9844-8fe5687f4fe2",
+    "movieTitle": "Beginners",
+    "movieYear": 2010,
+    "movieURL": "https://www.rottentomatoes.com/m/beginners",
+    "movieRank": 78,
+    "critic_score": "86%",
+    "audience_score": "77%"
+  },
+  {
+    "movieId": "d96d6dee-5160-4685-b258-45c53b248b8c",
+    "movieTitle": "I Want You Back",
+    "movieYear": 2022,
+    "movieURL": "https://www.rottentomatoes.com/m/i_want_you_back",
+    "movieRank": 79,
+    "critic_score": "87%",
+    "audience_score": "71%"
+  },
+  {
+    "movieId": "30837aa4-6a1c-3739-8a4a-c2d15d026cd5",
+    "movieTitle": "Paris, je t'aime",
+    "movieYear": 2006,
+    "movieURL": "https://www.rottentomatoes.com/m/paris_je_taime",
+    "movieRank": 80,
+    "critic_score": "86%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "2eeb3b54-babe-3247-a3bd-7c76d4d17398",
+    "movieTitle": "As Good as It Gets",
+    "movieYear": 1997,
+    "movieURL": "https://www.rottentomatoes.com/m/as_good_as_it_gets",
+    "movieRank": 81,
+    "critic_score": "86%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "bf8859ee-b3cb-39d4-92d0-28a3a67989f7",
+    "movieTitle": "Harold and Maude",
+    "movieYear": 1971,
+    "movieURL": "https://www.rottentomatoes.com/m/harold_and_maude",
+    "movieRank": 82,
+    "critic_score": "86%",
+    "audience_score": "93%"
+  },
+  {
+    "movieId": "fcb32e25-a0e1-3182-b2b3-f060f14d31d2",
+    "movieTitle": "(500) Days of Summer",
+    "movieYear": 2009,
+    "movieURL": "https://www.rottentomatoes.com/m/500_days_of_summer",
+    "movieRank": 83,
+    "critic_score": "85%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "7c910a0f-f94c-39d1-a4c2-8b0057c49fee",
+    "movieTitle": "Top Five",
+    "movieYear": 2014,
+    "movieURL": "https://www.rottentomatoes.com/m/top_five",
+    "movieRank": 84,
+    "critic_score": "85%",
+    "audience_score": "64%"
+  },
+  {
+    "movieId": "063a73d8-3f51-368c-9359-b196687e1994",
+    "movieTitle": "The 40 Year-Old Virgin",
+    "movieYear": 2005,
+    "movieURL": "https://www.rottentomatoes.com/m/the_40_year_old_virgin",
+    "movieRank": 85,
+    "critic_score": "85%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "0374605c-4439-4a97-9251-9dc5417438dc",
+    "movieTitle": "Shortcomings",
+    "movieYear": 2023,
+    "movieURL": "https://www.rottentomatoes.com/m/shortcomings_2023",
+    "movieRank": 86,
+    "critic_score": "85%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "79385c80-a135-3f97-b0e5-a46629775d4b",
+    "movieTitle": "An Ideal Husband",
+    "movieYear": 1999,
+    "movieURL": "https://www.rottentomatoes.com/m/1091577-ideal_husband",
+    "movieRank": 87,
+    "critic_score": "85%",
+    "audience_score": "69%"
+  },
+  {
+    "movieId": "a346097f-101e-3e11-9147-aa9eea9c9f19",
+    "movieTitle": "Emma",
+    "movieYear": 1996,
+    "movieURL": "https://www.rottentomatoes.com/m/1073316-emma",
+    "movieRank": 88,
+    "critic_score": "84%",
+    "audience_score": "76%"
+  },
+  {
+    "movieId": "1a705e7e-750e-3c3b-ae0c-21d6bfb73c48",
+    "movieTitle": "Trainwreck",
+    "movieYear": 2015,
+    "movieURL": "https://www.rottentomatoes.com/m/trainwreck",
+    "movieRank": 89,
+    "critic_score": "84%",
+    "audience_score": "66%"
+  },
+  {
+    "movieId": "e1e3104b-1684-325d-b784-d6cdb8610bd0",
+    "movieTitle": "Your Sister's Sister",
+    "movieYear": 2011,
+    "movieURL": "https://www.rottentomatoes.com/m/your_sisters_sister",
+    "movieRank": 90,
+    "critic_score": "84%",
+    "audience_score": "66%"
+  },
+  {
+    "movieId": "58fef2e6-a597-3174-bd06-cd00e2228d8a",
+    "movieTitle": "Notting Hill",
+    "movieYear": 1999,
+    "movieURL": "https://www.rottentomatoes.com/m/notting_hill",
+    "movieRank": 91,
+    "critic_score": "84%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "37d96fa3-8410-3852-8f6c-08fa2d6be525",
+    "movieTitle": "Jerry Maguire",
+    "movieYear": 1996,
+    "movieURL": "https://www.rottentomatoes.com/m/jerry_maguire",
+    "movieRank": 92,
+    "critic_score": "84%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "12e3b089-ba27-3a7c-9e0f-73243bde7dbf",
+    "movieTitle": "There's Something About Mary",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/theres_something_about_mary",
+    "movieRank": 93,
+    "critic_score": "84%",
+    "audience_score": "61%"
+  },
+  {
+    "movieId": "a6424f9a-5e83-3c65-9a54-a56c521300ad",
+    "movieTitle": "Kissing Jessica Stein",
+    "movieYear": 2001,
+    "movieURL": "https://www.rottentomatoes.com/m/kissing_jessica_stein",
+    "movieRank": 94,
+    "critic_score": "83%",
+    "audience_score": "65%"
+  },
+  {
+    "movieId": "c15dbcb2-d1ee-3eef-90e5-f2ada2da171c",
+    "movieTitle": "Forgetting Sarah Marshall",
+    "movieYear": 2008,
+    "movieURL": "https://www.rottentomatoes.com/m/forgetting_sarah_marshall",
+    "movieRank": 95,
+    "critic_score": "83%",
+    "audience_score": "76%"
+  },
+  {
+    "movieId": "1178278c-2985-3a03-bc95-e37727fa8553",
+    "movieTitle": "Working Girl",
+    "movieYear": 1988,
+    "movieURL": "https://www.rottentomatoes.com/m/working_girl",
+    "movieRank": 96,
+    "critic_score": "83%",
+    "audience_score": "67%"
+  },
+  {
+    "movieId": "33cd7ce1-267d-39f5-969f-f121b910fa23",
+    "movieTitle": "Cold Comfort Farm",
+    "movieYear": 1995,
+    "movieURL": "https://www.rottentomatoes.com/m/1071769-cold_comfort_farm",
+    "movieRank": 97,
+    "critic_score": "83%",
+    "audience_score": "81%"
+  },
+  {
+    "movieId": "ccdfa61c-6a10-3180-9be3-e0dc84342771",
+    "movieTitle": "Long Shot",
+    "movieYear": 2019,
+    "movieURL": "https://www.rottentomatoes.com/m/long_shot_2019",
+    "movieRank": 98,
+    "critic_score": "82%",
+    "audience_score": "74%"
+  },
+  {
+    "movieId": "068cf50e-783c-3557-b3f1-8e39f64b9711",
+    "movieTitle": "Happiest Season",
+    "movieYear": 2020,
+    "movieURL": "https://www.rottentomatoes.com/m/happiest_season",
+    "movieRank": 99,
+    "critic_score": "82%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "3558ba2e-4a5e-32f6-89ee-415ff012e8de",
+    "movieTitle": "Me and You and Everyone We Know",
+    "movieYear": 2005,
+    "movieURL": "https://www.rottentomatoes.com/m/me_and_you_and_everyone_we_know",
+    "movieRank": 100,
+    "critic_score": "82%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "d5ebf1ae-64d5-304c-a03b-c147e4daff77",
+    "movieTitle": "Priceless",
+    "movieYear": 2006,
+    "movieURL": "https://www.rottentomatoes.com/m/priceless",
+    "movieRank": 101,
+    "critic_score": "82%",
+    "audience_score": "75%"
+  },
+  {
+    "movieId": "59dd2f85-0af7-3447-aa13-99760e7f907e",
+    "movieTitle": "Grosse Pointe Blank",
+    "movieYear": 1997,
+    "movieURL": "https://www.rottentomatoes.com/m/grosse_pointe_blank",
+    "movieRank": 102,
+    "critic_score": "82%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "1e08067e-6641-3274-bdfe-970e2831aed7",
+    "movieTitle": "Lars and the Real Girl",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/1175569-lars_and_the_real_girl",
+    "movieRank": 103,
+    "critic_score": "81%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "cd5ed699-878a-3d7e-9bfb-3ab19690bc6c",
+    "movieTitle": "Clueless",
+    "movieYear": 1995,
+    "movieURL": "https://www.rottentomatoes.com/m/clueless",
+    "movieRank": 104,
+    "critic_score": "81%",
+    "audience_score": "76%"
+  },
+  {
+    "movieId": "7e508a05-f9be-3cb2-8cc9-af2d207b96fa",
+    "movieTitle": "While You Were Sleeping",
+    "movieYear": 1995,
+    "movieURL": "https://www.rottentomatoes.com/m/while_you_were_sleeping",
+    "movieRank": 105,
+    "critic_score": "81%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "d1d68c8a-ef6b-3715-8bad-c1d689737a88",
+    "movieTitle": "Muriel's Wedding",
+    "movieYear": 1994,
+    "movieURL": "https://www.rottentomatoes.com/m/muriels_wedding",
+    "movieRank": 106,
+    "critic_score": "81%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "eef6fa5d-7be6-3517-88cc-36df15353a19",
+    "movieTitle": "Sixteen Candles",
+    "movieYear": 1984,
+    "movieURL": "https://www.rottentomatoes.com/m/sixteen_candles",
+    "movieRank": 107,
+    "critic_score": "81%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "8a1ede65-7218-3b4b-9686-1722c8010e64",
+    "movieTitle": "Vicky Cristina Barcelona",
+    "movieYear": 2008,
+    "movieURL": "https://www.rottentomatoes.com/m/vicky_cristina_barcelona",
+    "movieRank": 108,
+    "critic_score": "80%",
+    "audience_score": "74%"
+  },
+  {
+    "movieId": "45459613-38a5-3c2f-a38f-a8772bc3410c",
+    "movieTitle": "Bridget Jones's Diary",
+    "movieYear": 2001,
+    "movieURL": "https://www.rottentomatoes.com/m/bridget_jones_diary",
+    "movieRank": 109,
+    "critic_score": "80%",
+    "audience_score": "81%"
+  },
+  {
+    "movieId": "2f646982-aa9f-3447-a52e-8a603571f284",
+    "movieTitle": "Man Up",
+    "movieYear": 2015,
+    "movieURL": "https://www.rottentomatoes.com/m/man_up_2015",
+    "movieRank": 110,
+    "critic_score": "80%",
+    "audience_score": "69%"
+  },
+  {
+    "movieId": "33679141-8f26-3250-a9ee-59ccb68c5498",
+    "movieTitle": "Crossing Delancey",
+    "movieYear": 1988,
+    "movieURL": "https://www.rottentomatoes.com/m/crossing_delancey",
+    "movieRank": 111,
+    "critic_score": "80%",
+    "audience_score": "77%"
+  },
+  {
+    "movieId": "024318c9-5e08-3cbc-b41e-82a1763006e7",
+    "movieTitle": "The Lost City",
+    "movieYear": 2022,
+    "movieURL": "https://www.rottentomatoes.com/m/the_lost_city",
+    "movieRank": 112,
+    "critic_score": "79%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "e6552e13-dd6f-3c75-8030-becf68119f03",
+    "movieTitle": "Mamma Mia! Here We Go Again",
+    "movieYear": 2018,
+    "movieURL": "https://www.rottentomatoes.com/m/mamma_mia_here_we_go_again",
+    "movieRank": 113,
+    "critic_score": "79%",
+    "audience_score": "66%"
+  },
+  {
+    "movieId": "a919bae2-484b-388f-af93-97d9718f937c",
+    "movieTitle": "Crazy, Stupid, Love.",
+    "movieYear": 2011,
+    "movieURL": "https://www.rottentomatoes.com/m/crazy_stupid_love_2011",
+    "movieRank": 114,
+    "critic_score": "79%",
+    "audience_score": "78%"
+  },
+  {
+    "movieId": "945fe364-e679-321a-acdc-3656ee7c11ae",
+    "movieTitle": "Punch-Drunk Love",
+    "movieYear": 2002,
+    "movieURL": "https://www.rottentomatoes.com/m/punchdrunk_love",
+    "movieRank": 115,
+    "critic_score": "79%",
+    "audience_score": "77%"
+  },
+  {
+    "movieId": "d2f3c17d-bb5f-35fd-8fb2-dc709835c5d7",
+    "movieTitle": "Ruby Sparks",
+    "movieYear": 2012,
+    "movieURL": "https://www.rottentomatoes.com/m/ruby_sparks",
+    "movieRank": 116,
+    "critic_score": "79%",
+    "audience_score": "75%"
+  },
+  {
+    "movieId": "364b6515-1ce3-31ea-a37a-6e4d883fef93",
+    "movieTitle": "Chinese Puzzle",
+    "movieYear": 2013,
+    "movieURL": "https://www.rottentomatoes.com/m/chinese_puzzle_2014",
+    "movieRank": 117,
+    "critic_score": "79%",
+    "audience_score": "67%"
+  },
+  {
+    "movieId": "8e3baaf1-20e7-3c98-86fe-3c8f89ef046d",
+    "movieTitle": "Singles",
+    "movieYear": 1992,
+    "movieURL": "https://www.rottentomatoes.com/m/1040379-singles",
+    "movieRank": 118,
+    "critic_score": "79%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "c120197e-e8cd-31df-9a56-f8cdf8281d7b",
+    "movieTitle": "Get Real",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/get_real",
+    "movieRank": 119,
+    "critic_score": "79%",
+    "audience_score": "84%"
+  },
+  {
+    "movieId": "796f7110-aa28-3f9d-9c92-000dc0ccc17c",
+    "movieTitle": "Bridget Jones's Baby",
+    "movieYear": 2016,
+    "movieURL": "https://www.rottentomatoes.com/m/bridget_joness_baby_2016",
+    "movieRank": 120,
+    "critic_score": "78%",
+    "audience_score": "65%"
+  },
+  {
+    "movieId": "de5d27bd-dc4b-4e56-8875-ad9df63d26ce",
+    "movieTitle": "The Map of Tiny Perfect Things",
+    "movieYear": 2021,
+    "movieURL": "https://www.rottentomatoes.com/m/the_map_of_tiny_perfect_things",
+    "movieRank": 121,
+    "critic_score": "78%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "faf666d0-9219-326d-a683-266cb8cdccf3",
+    "movieTitle": "My Big Fat Greek Wedding",
+    "movieYear": 2002,
+    "movieURL": "https://www.rottentomatoes.com/m/my_big_fat_greek_wedding",
+    "movieRank": 122,
+    "critic_score": "76%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "61ceae82-c0f4-48e9-91d9-5dbe9429216f",
+    "movieTitle": "Red, White & Royal Blue",
+    "movieYear": 2023,
+    "movieURL": "https://www.rottentomatoes.com/m/red_white_and_royal_blue",
+    "movieRank": 123,
+    "critic_score": "75%",
+    "audience_score": "93%"
+  },
+  {
+    "movieId": "bff14dd3-9f9e-30f0-a1c7-bf78e4c21525",
+    "movieTitle": "The Spanish Apartment",
+    "movieYear": 2002,
+    "movieURL": "https://www.rottentomatoes.com/m/the_spanish_apartment",
+    "movieRank": 124,
+    "critic_score": "76%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "b6c3f07c-6b4e-38e5-b2dc-1f505fd6264f",
+    "movieTitle": "Benny & Joon",
+    "movieYear": 1993,
+    "movieURL": "https://www.rottentomatoes.com/m/benny_and_joon",
+    "movieRank": 125,
+    "critic_score": "76%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "6950323a-fd9b-35ed-a68c-7aa58c5a7a69",
+    "movieTitle": "Nick and Norah's Infinite Playlist",
+    "movieYear": 2008,
+    "movieURL": "https://www.rottentomatoes.com/m/nick_and_norahs_infinite_playlist",
+    "movieRank": 126,
+    "critic_score": "75%",
+    "audience_score": "65%"
+  },
+  {
+    "movieId": "4b91bcd3-261f-35aa-8f3e-124f7bb4a988",
+    "movieTitle": "Wedding Crashers",
+    "movieYear": 2005,
+    "movieURL": "https://www.rottentomatoes.com/m/wedding_crashers",
+    "movieRank": 127,
+    "critic_score": "75%",
+    "audience_score": "70%"
+  },
+  {
+    "movieId": "7e1b32cc-662b-3ff2-a981-414fa5616436",
+    "movieTitle": "The Valet",
+    "movieYear": 2022,
+    "movieURL": "https://www.rottentomatoes.com/m/the_valet_2022",
+    "movieRank": 128,
+    "critic_score": "75%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "0a6fb9d2-51c8-326d-99e6-77aab74c6ae4",
+    "movieTitle": "Sleepless in Seattle",
+    "movieYear": 1993,
+    "movieURL": "https://www.rottentomatoes.com/m/sleepless_in_seattle",
+    "movieRank": 129,
+    "critic_score": "75%",
+    "audience_score": "75%"
+  },
+  {
+    "movieId": "7d9f6ab6-9bc4-3555-b846-3cd861f59391",
+    "movieTitle": "Pretty in Pink",
+    "movieYear": 1986,
+    "movieURL": "https://www.rottentomatoes.com/m/pretty_in_pink",
+    "movieRank": 130,
+    "critic_score": "75%",
+    "audience_score": "81%"
+  },
+  {
+    "movieId": "5aa25c7a-0d26-38ff-9b49-7852ce980829",
+    "movieTitle": "My Best Friend's Wedding",
+    "movieYear": 1997,
+    "movieURL": "https://www.rottentomatoes.com/m/my_best_friends_wedding",
+    "movieRank": 131,
+    "critic_score": "74%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "f157799d-7294-3bd7-a117-ea0c17268106",
+    "movieTitle": "Stranger Than Fiction",
+    "movieYear": 2006,
+    "movieURL": "https://www.rottentomatoes.com/m/stranger_than_fiction",
+    "movieRank": 132,
+    "critic_score": "73%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "729e4b8b-a86f-363c-a031-3a8cf7783a79",
+    "movieTitle": "Populaire",
+    "movieYear": 2012,
+    "movieURL": "https://www.rottentomatoes.com/m/populaire",
+    "movieRank": 133,
+    "critic_score": "73%",
+    "audience_score": "71%"
+  },
+  {
+    "movieId": "2cf742ff-86d6-3c40-9488-3659dea5ea78",
+    "movieTitle": "Definitely, Maybe",
+    "movieYear": 2008,
+    "movieURL": "https://www.rottentomatoes.com/m/1174278-definitely_maybe",
+    "movieRank": 134,
+    "critic_score": "71%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "a6ae0840-3a0b-3030-a3af-282d56082602",
+    "movieTitle": "Celeste and Jesse Forever",
+    "movieYear": 2012,
+    "movieURL": "https://www.rottentomatoes.com/m/celeste_and_jesse_forever",
+    "movieRank": 135,
+    "critic_score": "70%",
+    "audience_score": "62%"
+  },
+  {
+    "movieId": "5e9c24fc-ffe7-3abb-b4c0-bb9c1343c7c2",
+    "movieTitle": "Cyrano de Bergerac",
+    "movieYear": 1990,
+    "movieURL": "https://www.rottentomatoes.com/m/1034188-cyrano_de_bergerac",
+    "movieRank": 136,
+    "critic_score": "100%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "09aff60f-498f-35d0-a8d5-11be0b836361",
+    "movieTitle": "Holiday",
+    "movieYear": 1938,
+    "movieURL": "https://www.rottentomatoes.com/m/holiday",
+    "movieRank": 137,
+    "critic_score": "100%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "0425e990-6ffd-32f0-b441-5656014b320f",
+    "movieTitle": "Desk Set",
+    "movieYear": 1957,
+    "movieURL": "https://www.rottentomatoes.com/m/desk_set",
+    "movieRank": 138,
+    "critic_score": "100%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "af717fdb-d103-3c24-94a7-a31954f4da57",
+    "movieTitle": "Indiscreet",
+    "movieYear": 1958,
+    "movieURL": "https://www.rottentomatoes.com/m/1010540-indiscreet",
+    "movieRank": 139,
+    "critic_score": "100%",
+    "audience_score": "69%"
+  },
+  {
+    "movieId": "78e56bfd-7d9c-3634-a4d4-6afd65a82b45",
+    "movieTitle": "Born Yesterday",
+    "movieYear": 1950,
+    "movieURL": "https://www.rottentomatoes.com/m/1002930-born_yesterday",
+    "movieRank": 140,
+    "critic_score": "97%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "890c7658-0996-3147-bbe9-4ee8879f02cd",
+    "movieTitle": "My Man Godfrey",
+    "movieYear": 1936,
+    "movieURL": "https://www.rottentomatoes.com/m/1014536-my_man_godfrey",
+    "movieRank": 141,
+    "critic_score": "97%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "39a000d4-9128-320a-ab6e-66066c14b26a",
+    "movieTitle": "Play It Again, Sam",
+    "movieYear": 1972,
+    "movieURL": "https://www.rottentomatoes.com/m/play_it_again_sam",
+    "movieRank": 142,
+    "critic_score": "97%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "13b62290-b9a6-33ac-88d0-3e510fc56a7c",
+    "movieTitle": "The Wedding Banquet",
+    "movieYear": 1993,
+    "movieURL": "https://www.rottentomatoes.com/m/wedding_banquet",
+    "movieRank": 143,
+    "critic_score": "97%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "28e0d2c9-d5f6-380e-8eb8-d141faa42873",
+    "movieTitle": "Stolen Kisses",
+    "movieYear": 1968,
+    "movieURL": "https://www.rottentomatoes.com/m/stolen_kisses",
+    "movieRank": 144,
+    "critic_score": "97%",
+    "audience_score": "89%"
+  },
+  {
+    "movieId": "394c27a8-c8c3-3c3b-bbc8-9777610eaa8e",
+    "movieTitle": "Adam's Rib",
+    "movieYear": 1949,
+    "movieURL": "https://www.rottentomatoes.com/m/1000253-adams_rib",
+    "movieRank": 145,
+    "critic_score": "96%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "0fd509c7-bf36-3659-8fc8-046dea8c6ec9",
+    "movieTitle": "Belle Epoque",
+    "movieYear": 1992,
+    "movieURL": "https://www.rottentomatoes.com/m/belle_epoque",
+    "movieRank": 146,
+    "critic_score": "95%",
+    "audience_score": "78%"
+  },
+  {
+    "movieId": "037bbd9e-ba09-393c-a44c-f2d2b0a5a07c",
+    "movieTitle": "Pillow Talk",
+    "movieYear": 1959,
+    "movieURL": "https://www.rottentomatoes.com/m/pillow_talk",
+    "movieRank": 147,
+    "critic_score": "94%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "3bf56af8-b6ee-3f8f-a5ea-5197ea12c87b",
+    "movieTitle": "The Purple Rose of Cairo",
+    "movieYear": 1985,
+    "movieURL": "https://www.rottentomatoes.com/m/purple_rose_of_cairo",
+    "movieRank": 148,
+    "critic_score": "93%",
+    "audience_score": "88%"
+  },
+  {
+    "movieId": "6a1e70f2-1f2f-35e8-a4b4-b6143ace20ed",
+    "movieTitle": "Trouble in Paradise",
+    "movieYear": 1932,
+    "movieURL": "https://www.rottentomatoes.com/m/1118325-trouble_in_paradise",
+    "movieRank": 149,
+    "critic_score": "90%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "b8da8b25-7472-3c47-bf2a-6febe72a27b6",
+    "movieTitle": "The Awful Truth",
+    "movieYear": 1937,
+    "movieURL": "https://www.rottentomatoes.com/m/awful_truth",
+    "movieRank": 150,
+    "critic_score": "91%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "75a917ff-c1b0-3393-adbc-110a1528a467",
+    "movieTitle": "The Importance of Being Earnest",
+    "movieYear": 1952,
+    "movieURL": "https://www.rottentomatoes.com/m/1010431-importance_of_being_earnest",
+    "movieRank": 151,
+    "critic_score": "88%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "55fa7e6c-106b-378a-9046-01a5b138700f",
+    "movieTitle": "Arthur",
+    "movieYear": 1981,
+    "movieURL": "https://www.rottentomatoes.com/m/1001240-arthur",
+    "movieRank": 152,
+    "critic_score": "86%",
+    "audience_score": "77%"
+  },
+  {
+    "movieId": "ab4dc4a2-c47e-3f39-ac6b-13b89a0c6c62",
+    "movieTitle": "The Sure Thing",
+    "movieYear": 1985,
+    "movieURL": "https://www.rottentomatoes.com/m/sure_thing",
+    "movieRank": 153,
+    "critic_score": "86%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "46e95fd1-fd64-3c93-9388-c6cea465f32a",
+    "movieTitle": "Romantics Anonymous",
+    "movieYear": 2010,
+    "movieURL": "https://www.rottentomatoes.com/m/romantics_anonymous",
+    "movieRank": 154,
+    "critic_score": "86%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "304910a5-be68-354a-bb07-8f12632975a9",
+    "movieTitle": "Pat and Mike",
+    "movieYear": 1952,
+    "movieURL": "https://www.rottentomatoes.com/m/pat_and_mike",
+    "movieRank": 155,
+    "critic_score": "85%",
+    "audience_score": "69%"
+  },
+  {
+    "movieId": "1486ece4-e17b-35bc-a71c-bf365c50a5c1",
+    "movieTitle": "How to Marry a Millionaire",
+    "movieYear": 1953,
+    "movieURL": "https://www.rottentomatoes.com/m/how_to_marry_a_millionaire",
+    "movieRank": 156,
+    "critic_score": "85%",
+    "audience_score": "78%"
+  },
+  {
+    "movieId": "bbaebf30-e42f-3961-adbe-7932e8db4175",
+    "movieTitle": "The Seven Year Itch",
+    "movieYear": 1955,
+    "movieURL": "https://www.rottentomatoes.com/m/seven_year_itch",
+    "movieRank": 157,
+    "critic_score": "84%",
+    "audience_score": "76%"
+  },
+  {
+    "movieId": "892c0e0e-a9f0-3bd4-aa61-d31cf76b2f5c",
+    "movieTitle": "Valley Girl",
+    "movieYear": 1983,
+    "movieURL": "https://www.rottentomatoes.com/m/valley_girl",
+    "movieRank": 158,
+    "critic_score": "84%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "71532f44-f766-3f65-815b-952721607f28",
+    "movieTitle": "Woman of the Year",
+    "movieYear": 1942,
+    "movieURL": "https://www.rottentomatoes.com/m/woman_of_the_year",
+    "movieRank": 159,
+    "critic_score": "83%",
+    "audience_score": "80%"
+  },
+  {
+    "movieId": "14cba494-fbf6-34a9-a35e-77a141f62382",
+    "movieTitle": "Love in the Afternoon",
+    "movieYear": 1957,
+    "movieURL": "https://www.rottentomatoes.com/m/love_in_the_afternoon",
+    "movieRank": 160,
+    "critic_score": "82%",
+    "audience_score": "78%"
+  },
+  {
+    "movieId": "48faf996-12c3-3637-81c7-00e1b3093df7",
+    "movieTitle": "Love at First Fight",
+    "movieYear": 2014,
+    "movieURL": "https://www.rottentomatoes.com/m/love_at_first_fight",
+    "movieRank": 161,
+    "critic_score": "82%",
+    "audience_score": "66%"
+  },
+  {
+    "movieId": "108e96b6-7ad7-3121-8536-7bd7328f8f8d",
+    "movieTitle": "An Oversimplification of Her Beauty",
+    "movieYear": 2012,
+    "movieURL": "https://www.rottentomatoes.com/m/an_oversimplification_of_her_beauty_2012",
+    "movieRank": 162,
+    "critic_score": "82%",
+    "audience_score": "60%"
+  },
+  {
+    "movieId": "57cb6ac4-9e49-39db-9010-c01bf1205066",
+    "movieTitle": "Edge of Seventeen",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/edge_of_seventeen",
+    "movieRank": 163,
+    "critic_score": "80%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "04566197-ccef-357a-9a10-cfaf5a880533",
+    "movieTitle": "Trick",
+    "movieYear": 1999,
+    "movieURL": "https://www.rottentomatoes.com/m/trickfilme",
+    "movieRank": 164,
+    "critic_score": "79%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "fdd7d251-0571-3df9-b1fb-3764e2e1859f",
+    "movieTitle": "Mighty Aphrodite",
+    "movieYear": 1995,
+    "movieURL": "https://www.rottentomatoes.com/m/mighty_aphrodite",
+    "movieRank": 165,
+    "critic_score": "78%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "b33d4508-6c61-302f-80e3-cae046da7055",
+    "movieTitle": "Little Manhattan",
+    "movieYear": 2005,
+    "movieURL": "https://www.rottentomatoes.com/m/little_manhattan",
+    "movieRank": 166,
+    "critic_score": "77%",
+    "audience_score": "86%"
+  },
+  {
+    "movieId": "ccccfe9d-26a7-3673-a2ee-a513196d73ba",
+    "movieTitle": "Better Off Dead",
+    "movieYear": 1985,
+    "movieURL": "https://www.rottentomatoes.com/m/1002213-better_off_dead",
+    "movieRank": 167,
+    "critic_score": "77%",
+    "audience_score": "87%"
+  },
+  {
+    "movieId": "8a442fd8-5927-387e-89ef-48138beab7d3",
+    "movieTitle": "Twelfth Night",
+    "movieYear": 1996,
+    "movieURL": "https://www.rottentomatoes.com/m/twelfth_night_1998",
+    "movieRank": 168,
+    "critic_score": "76%",
+    "audience_score": "80%"
+  },
+  {
+    "movieId": "74f3ba8e-b8b6-3faf-bdf4-6557b1b339b9",
+    "movieTitle": "What If",
+    "movieYear": 2013,
+    "movieURL": "https://www.rottentomatoes.com/m/what_if_2014",
+    "movieRank": 169,
+    "critic_score": "74%",
+    "audience_score": "69%"
+  },
+  {
+    "movieId": "0e56ab40-aa07-3903-b9e6-10d4cadbf1f0",
+    "movieTitle": "Coming to America",
+    "movieYear": 1988,
+    "movieURL": "https://www.rottentomatoes.com/m/coming_to_america",
+    "movieRank": 170,
+    "critic_score": "73%",
+    "audience_score": "85%"
+  },
+  {
+    "movieId": "5af48815-0d12-3736-8c36-ac31e536f3c1",
+    "movieTitle": "Something's Gotta Give",
+    "movieYear": 2003,
+    "movieURL": "https://www.rottentomatoes.com/m/somethings_gotta_give",
+    "movieRank": 171,
+    "critic_score": "72%",
+    "audience_score": "69%"
+  },
+  {
+    "movieId": "3f7b5c23-0aad-3788-9c84-c54a97047c78",
+    "movieTitle": "Tin Cup",
+    "movieYear": 1996,
+    "movieURL": "https://www.rottentomatoes.com/m/tin_cup",
+    "movieRank": 172,
+    "critic_score": "72%",
+    "audience_score": "65%"
+  },
+  {
+    "movieId": "0ac0b2f7-40e0-3868-83d7-c3e265ce2983",
+    "movieTitle": "Russian Dolls",
+    "movieYear": 2005,
+    "movieURL": "https://www.rottentomatoes.com/m/russian_dolls",
+    "movieRank": 173,
+    "critic_score": "72%",
+    "audience_score": "78%"
+  },
+  {
+    "movieId": "c4397d99-18ea-35f6-9769-be2ebe1403df",
+    "movieTitle": "The Wedding Singer",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/wedding_singer",
+    "movieRank": 174,
+    "critic_score": "72%",
+    "audience_score": "80%"
+  },
+  {
+    "movieId": "0406d28f-6576-39a7-b3df-b7e6dc266878",
+    "movieTitle": "Liberal Arts",
+    "movieYear": 2012,
+    "movieURL": "https://www.rottentomatoes.com/m/liberal_arts",
+    "movieRank": 175,
+    "critic_score": "71%",
+    "audience_score": "60%"
+  },
+  {
+    "movieId": "eb68a512-22dc-3452-9c6d-c26568f7128f",
+    "movieTitle": "10 Things I Hate About You",
+    "movieYear": 1999,
+    "movieURL": "https://www.rottentomatoes.com/m/10_things_i_hate_about_you",
+    "movieRank": 176,
+    "critic_score": "71%",
+    "audience_score": "69%"
+  },
+  {
+    "movieId": "6eb7b151-3122-3e12-a693-1025264e61e4",
+    "movieTitle": "The Best Man Holiday",
+    "movieYear": 2013,
+    "movieURL": "https://www.rottentomatoes.com/m/the_best_man_holiday_2013",
+    "movieRank": 177,
+    "critic_score": "71%",
+    "audience_score": "83%"
+  },
+  {
+    "movieId": "0ab37611-4698-3d5a-a230-d80b3a80e80f",
+    "movieTitle": "About Time",
+    "movieYear": 2013,
+    "movieURL": "https://www.rottentomatoes.com/m/about_time",
+    "movieRank": 178,
+    "critic_score": "71%",
+    "audience_score": "82%"
+  },
+  {
+    "movieId": "cf88feec-d7c4-347d-99a8-586ace4b5ba3",
+    "movieTitle": "The Science of Sleep",
+    "movieYear": 2006,
+    "movieURL": "https://www.rottentomatoes.com/m/the_science_of_sleep",
+    "movieRank": 179,
+    "critic_score": "70%",
+    "audience_score": "81%"
+  },
+  {
+    "movieId": "d1e32db9-f8ba-3e04-b3fb-a49ee736c082",
+    "movieTitle": "You've Got Mail",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/youve_got_mail",
+    "movieRank": 180,
+    "critic_score": "70%",
+    "audience_score": "73%"
+  },
+  {
+    "movieId": "f4853b23-34b4-3e50-b307-1f3b36c3b668",
+    "movieTitle": "Jeffrey",
+    "movieYear": 1995,
+    "movieURL": "https://www.rottentomatoes.com/m/jeffrey",
+    "movieRank": 181,
+    "critic_score": "70%",
+    "audience_score": "67%"
+  },
+  {
+    "movieId": "a422b955-d27d-3cdc-8a96-659cfd839751",
+    "movieTitle": "Frankie and Johnny",
+    "movieYear": 1991,
+    "movieURL": "https://www.rottentomatoes.com/m/1037161-frankie_and_johnny",
+    "movieRank": 182,
+    "critic_score": "69%",
+    "audience_score": "68%"
+  },
+  {
+    "movieId": "da3aace4-4262-3aef-bc93-3b33295e30fb",
+    "movieTitle": "The Life and Death of Peter Sellers",
+    "movieYear": 2004,
+    "movieURL": "https://www.rottentomatoes.com/m/1142298-life_and_death_of_peter_sellers",
+    "movieRank": 183,
+    "critic_score": "69%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "4ddc7977-a6f7-30e4-90aa-997a76311df2",
+    "movieTitle": "Hitch",
+    "movieYear": 2005,
+    "movieURL": "https://www.rottentomatoes.com/m/hitch",
+    "movieRank": 184,
+    "critic_score": "69%",
+    "audience_score": "62%"
+  },
+  {
+    "movieId": "fc88e177-6bb6-38cb-88c9-63c537b90ead",
+    "movieTitle": "Heartbreaker",
+    "movieYear": 2010,
+    "movieURL": "https://www.rottentomatoes.com/m/larnacoeur",
+    "movieRank": 185,
+    "critic_score": "68%",
+    "audience_score": "66%"
+  },
+  {
+    "movieId": "4a601a1d-bcdb-3c61-947b-d6f1fc9130b9",
+    "movieTitle": "Baby Boom",
+    "movieYear": 1987,
+    "movieURL": "https://www.rottentomatoes.com/m/baby_boom",
+    "movieRank": 186,
+    "critic_score": "67%",
+    "audience_score": "62%"
+  },
+  {
+    "movieId": "f0421333-e057-3dfa-963c-42de2f7a3ebf",
+    "movieTitle": "William Shakespeare's A Midsummer Night's Dream",
+    "movieYear": 1999,
+    "movieURL": "https://www.rottentomatoes.com/m/1090918-midsummer_nights_dream",
+    "movieRank": 187,
+    "critic_score": "67%",
+    "audience_score": "60%"
+  },
+  {
+    "movieId": "a84e81c7-4e71-319a-b1f5-6b8e787ad3d0",
+    "movieTitle": "Away We Go",
+    "movieYear": 2009,
+    "movieURL": "https://www.rottentomatoes.com/m/away_we_go",
+    "movieRank": 188,
+    "critic_score": "67%",
+    "audience_score": "74%"
+  },
+  {
+    "movieId": "212f161b-d336-33a2-a161-10c1e98848f8",
+    "movieTitle": "Brown Sugar",
+    "movieYear": 2002,
+    "movieURL": "https://www.rottentomatoes.com/m/brown_sugar",
+    "movieRank": 189,
+    "critic_score": "67%",
+    "audience_score": "90%"
+  },
+  {
+    "movieId": "002b3426-442b-305d-b6ce-804ba1ab7250",
+    "movieTitle": "Fever Pitch",
+    "movieYear": 2005,
+    "movieURL": "https://www.rottentomatoes.com/m/fever_pitch",
+    "movieRank": 190,
+    "critic_score": "66%",
+    "audience_score": "60%"
+  },
+  {
+    "movieId": "73b084c9-96ad-3fb6-aea0-1e59cf7b5358",
+    "movieTitle": "Chances Are",
+    "movieYear": 1989,
+    "movieURL": "https://www.rottentomatoes.com/m/chances_are",
+    "movieRank": 191,
+    "critic_score": "67%",
+    "audience_score": "65%"
+  },
+  {
+    "movieId": "f64dbde8-5573-3c4b-a41e-93eabe14e82f",
+    "movieTitle": "Pretty Woman",
+    "movieYear": 1990,
+    "movieURL": "https://www.rottentomatoes.com/m/pretty_woman",
+    "movieRank": 192,
+    "critic_score": "65%",
+    "audience_score": "68%"
+  },
+  {
+    "movieId": "e3321066-bd54-3503-bd51-0bd059d98adf",
+    "movieTitle": "Zack and Miri Make a Porno",
+    "movieYear": 2008,
+    "movieURL": "https://www.rottentomatoes.com/m/1190296-zack_and_miri_make_a_porno",
+    "movieRank": 193,
+    "critic_score": "65%",
+    "audience_score": "66%"
+  },
+  {
+    "movieId": "0dbd2210-8c97-3761-a7a9-e7933272a4f8",
+    "movieTitle": "Sliding Doors",
+    "movieYear": 1998,
+    "movieURL": "https://www.rottentomatoes.com/m/sliding_doors",
+    "movieRank": 194,
+    "critic_score": "65%",
+    "audience_score": "77%"
+  },
+  {
+    "movieId": "01601531-3953-3d5a-ac5a-51946700604e",
+    "movieTitle": "13 Going on 30",
+    "movieYear": 2004,
+    "movieURL": "https://www.rottentomatoes.com/m/13_going_on_30",
+    "movieRank": 195,
+    "critic_score": "65%",
+    "audience_score": "71%"
+  },
+  {
+    "movieId": "274f76dc-dc52-3034-9534-9c2698b7704a",
+    "movieTitle": "Love Actually",
+    "movieYear": 2003,
+    "movieURL": "https://www.rottentomatoes.com/m/love_actually",
+    "movieRank": 196,
+    "critic_score": "64%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "2d9afe5c-2846-3984-a6fb-2e930924cee3",
+    "movieTitle": "Broken English",
+    "movieYear": 2007,
+    "movieURL": "https://www.rottentomatoes.com/m/broken_english",
+    "movieRank": 197,
+    "critic_score": "64%",
+    "audience_score": "62%"
+  },
+  {
+    "movieId": "4a628612-0115-3489-80ab-51867e06e236",
+    "movieTitle": "Big Eden",
+    "movieYear": 2000,
+    "movieURL": "https://www.rottentomatoes.com/m/big_eden",
+    "movieRank": 198,
+    "critic_score": "64%",
+    "audience_score": "79%"
+  },
+  {
+    "movieId": "2ad17ade-64f2-3320-944d-fdb855278bc4",
+    "movieTitle": "The Broken Hearts Club",
+    "movieYear": 2000,
+    "movieURL": "https://www.rottentomatoes.com/m/broken_hearts_club",
+    "movieRank": 199,
+    "critic_score": "64%",
+    "audience_score": "72%"
+  },
+  {
+    "movieId": "403e6d96-e18a-39b2-9ac7-a9cb2f37aa6c",
+    "movieTitle": "Bride & Prejudice",
+    "movieYear": 2004,
+    "movieURL": "https://www.rottentomatoes.com/m/bride_and_prejudice",
+    "movieRank": 200,
+    "critic_score": "64%",
+    "audience_score": "70%"
+  }
+]
