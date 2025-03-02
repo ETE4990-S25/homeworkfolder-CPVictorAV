@@ -39,16 +39,14 @@ def save_student(Save):
 
     Student_data.append(json_info)
 
-    with open('student_saves.json','w') as f:
+    with open('student_saves.json','a') as f:
         json.dump(Student_data,f)
 
 def show_content():
     import json
     
     with open('student_saves.json','r') as f:
-        json_display = json.load(f)
-
-    print(json.dumps(json_display,indent=2))
+        print(json.dumps(f,indent=2))
 
         
 
