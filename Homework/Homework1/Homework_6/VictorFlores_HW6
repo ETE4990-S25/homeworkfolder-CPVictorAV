@@ -1,0 +1,81 @@
+unfiltered = [15,2,45,32,21,3,4]
+
+a = [1,2,3]
+b = [3,4,5]
+
+from functools import reduce
+to_the_fifth = [2,2,2,2,2]
+
+sequence = ['a','b','c','d']
+
+First_Name  = ['John','Darren','Sarah']
+Last_Name = ['Doe','Watkins','Cortez']
+
+def BasicLambdaFunction():
+    testing = 4
+
+    even_or_odd = lambda x: "even" if x % 2 == 0 else "odd"
+
+    print(even_or_odd(testing))
+
+BasicLambdaFunction()
+
+def AdvLambdaFunction():
+    sum_list = [1,3,4,5]
+
+    summer = lambda x: sum(x)
+
+    print(summer(sum_list))
+
+AdvLambdaFunction()
+
+def SortLambda():
+    unsorted = [9,1,4,5,8,3]
+
+    sorting = lambda x: sorted(x)
+
+    print(sorting(unsorted))
+
+SortLambda()
+
+def filteringLambda(alist):
+
+    filtering = list(filter(lambda x:(x<10),alist))
+
+    return filtering
+
+filteringLambda(unfiltered)
+
+def LambdaMap(oneList,twoList):
+    
+
+    mapped = list(map(lambda x,y: x+y,oneList,twoList))
+
+    return mapped
+
+LambdaMap(a,b)
+
+def ReduceLambda(eList):
+
+    exponent = reduce(lambda x,y: x*y,eList)
+
+    return exponent
+
+ReduceLambda(to_the_fifth)
+
+def NoLambdaEnumerate(alphaList):
+
+    numbered_alphabet = dict(enumerate(alphaList,start=1))
+
+    return numbered_alphabet
+
+NoLambdaEnumerate(sequence)
+
+
+def full_name(first,last):
+
+    combine_name = list(zip(first,last))
+
+    return combine_name
+
+full_name(First_Name,Last_Name)
